@@ -1,0 +1,30 @@
+.box{
+    width: 1350px;
+    height:620px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color:rgb(118, 118, 176);
+}
+.Box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    padding: 20px; 
+}
+#box2{
+    position: absolute;
+    left: 9px;
+    bottom: 12px;
+}
+#box3{
+    position: absolute;
+    right: 9px;
+    bottom: 12px;
+}
+#box4{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+}
